@@ -17,6 +17,8 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("exito para programacion 2 udec");
+        
+        System.out.println("prueba dos");
     }
     
 }
