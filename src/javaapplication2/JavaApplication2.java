@@ -16,9 +16,20 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("exito para programacion 2 udec");
         
-        System.out.println("prueba dos");
+System.out.println("iiiiiiiiiiiiii   iiiiiiiiiii      iiiii           iiiii    iiiiiiiiiiiiiiiiiiii   iiiiiiiiiiiiiiiiiii       iiiiiiiiiii      iiiiiiiiiiiiiiiiii");
+System.out.println("iiiiiiiiiiiiii   iiiiiiiiiiiiii   iiiii           iiiii    iiiiiiiiiiiiiiiiiiii   iiiiiiiiiiiiiiiiiiii      iiiiiiiiiiiiii   iiiiiiiiiiiiiiiiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiii         iiiiii     iii        iii   iiii          iiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiii         iiiiii     iii        iii   iiii          iiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiii         iiiii      iii        iii   iiii          iiii");
+System.out.println("iiiiiiiiiiiiii   iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiiiiiiiiiiiiiiii       iii        iii   iiii          iiii");
+System.out.println("iiiiiiiiiiiiii   iii        iii   iiiii           iiiii    iiiiiiiiiiiiiiiiiiii   iiiiiiiiiiiiiiiiiii       iii        iii   iiii          iiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiiiiiiiiiiiiiiiii   iiiiii         iiiii      iii        iii   iiii          iiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiii         iiiiii     iii        iii   iiii          iiii");
+System.out.println("iiiiii           iii        iii   iiiii           iiiii    iiiiii        iiiiii   iiiiii         iiiiiii    iii        iii   iiii          iiii");
+System.out.println("iiiiiiiiiiiiii   iiiiiiiiiiiiii   iiiiiiiiiiiiiiiiiiiii    iiiiii        iiiiii   iiiiii         iiiiiiii   iiiiiiiiiiiiii   iiiiiiiiiiiiiiiiii");
+System.out.println("iiiiiiiiiiiiii   iiiiiiiiiii      iiiiiiiiiiiiiiiiiiiii    iiiiii        iiiiii   iiiiii         iiiiiiiii  iiiiiiiiiii      iiiiiiiiiiiiiiiiii");
+
     }
     
 }
